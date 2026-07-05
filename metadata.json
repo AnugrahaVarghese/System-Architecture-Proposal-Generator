@@ -1,0 +1,6 @@
+{
+  "name": "API-to-Cloud System Architect",
+  "description": "An interactive tool that parses OpenAPI specs and constraints via a multi-model Gemini agent pipeline to generate production-ready IaC, API maps, and cost simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
